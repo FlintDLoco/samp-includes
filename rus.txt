@@ -1,0 +1,14 @@
+C:\Users\Abdul\Desktop\SotoZone\pawno\include\YSI_Core\y_core\y_version.inc(252) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "strfind"
+C:\Users\Abdul\Desktop\SotoZone\pawno\include\YSI_Core\y_core\y_version.inc(252) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Abdul\Desktop\SotoZone\pawno\include\YSI_Core\y_core\y_version.inc(252) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\Abdul\Desktop\SotoZone\pawno\include\YSI_Core\y_core\y_version.inc(252) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\Abdul\Desktop\SotoZone\pawno\include\YSI_Core\y_core\y_version.inc(252) : îøèáêà 001: îæèäàëñÿ òîêåí ";", íî íàéäåí ")"
+C:\Users\Abdul\Desktop\SotoZone\pawno\include\YSI_Core\y_core\y_version.inc(252) : îøèáêà 029: íåïðàâèëüíîå âûðàæåíèå, ïðèíÿò íîëü
+C:\Users\Abdul\Desktop\SotoZone\pawno\include\YSI_Core\y_core\y_version.inc(252) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:4.
